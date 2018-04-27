@@ -14,16 +14,16 @@ CREATE TABLE Products(
 select * from Products;
 
 INSERT INTO Products(ProductName,DepartmentName,Price,StockQuantity)
-VALUES ("Uncharted 4","ENTERTAINMENT",49.95,150),
-    ("DOOM","ENTERTAINMENT",59.99,200),
-    ("Crate of Spam","GROCERY",24.50,50),
-    ("Cool Shades","CLOTHING",75.00,5),
-    ("Worn Denim Jeans","CLOTHING",54.25,35),
-    ("Survival Towel","SPORTS & OUTDOORS",42.42,42),
-    ("Bill and Ted's Excellent Adventure","ENTERTAINMENT",15.00,25),
-    ("Mad Max: Fury Road","ENTERTAINMENT",25.50,57),
-    ("Monopoly","ENTERTAINMENT",30.50,35),
-    ("Yahtzee","ENTERTAINMENT",19.95,23);
+VALUES ("CHESS GAME","ENTERTAINMENT",49.95,150),
+    ("JEOPARDY","ENTERTAINMENT",59.99,200),
+    ("Grapefruit Juice","GROCERY",24.50,50),
+    ("Khaki Shorts","CLOTHING",75.00,5),
+    ("Golf Shirt","CLOTHING",54.25,35),
+    ("Soccer Balls","SPORTS & OUTDOORS",42.42,42),
+    ("Javascript Tutorials","ENTERTAINMENT",15.00,25),
+    ("Whiskey","ENTERTAINMENT",25.50,57),
+    ("Raspberry Pi","ENTERTAINMENT",30.50,35),
+    ("Rubix Cube","ENTERTAINMENT",19.95,23);
 
 CREATE TABLE Departments(
     DepartmentID MEDIUMINT AUTO_INCREMENT NOT NULL,
