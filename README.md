@@ -17,9 +17,9 @@ A. If there is sufficient quantity, it will return the total.
 B. If there is not enough inventory, it will alert the user.
 C. Once the purchase is complete, inventory gets updated.
 
-Updated invetory can be viewed dynamically in workbench. 
+Updated invetory can be viewed dynamically in Workbench. 
 
-
+(Smooth)Video: 
 https://drive.google.com/file/d/1ODO3G4eQRRdKAx90uGibXurEMWQMYTFH/view
 
 CDR. Syyad Khan
