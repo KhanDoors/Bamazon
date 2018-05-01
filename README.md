@@ -1,10 +1,14 @@
 #Bamazon
 
 Visual Studio Code
-Node.js
-npm MySQL
-npm Inquirer
-MySQLWorkbench
+
+*Node.js
+
+*npm MySQL
+
+*npm Inquirer
+
+*MySQLWorkbench
 
 Lists all products in inventory.
 
@@ -13,9 +17,9 @@ Prompt customer for:
 2. Asks for the quantity they would like to purchase.
 3. Asks if they would like to purchase another item.
 
-A. If there is sufficient quantity, it will return the total.
-B. If there is not enough inventory, it will alert the user.
-C. Once the purchase is complete, inventory gets updated.
++. If there is sufficient quantity, it will return the total.
++. If there is not enough inventory, it will alert the user.
++. Once the purchase is complete, inventory gets updated.
 
 Updated invetory can be viewed dynamically in Workbench. 
 
