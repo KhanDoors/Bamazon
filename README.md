@@ -2,13 +2,15 @@
 
 Visual Studio Code
 
-*Node.js
+
+MySQLWorkbench
+
+Node.js
 
 *npm MySQL
 
 *npm Inquirer
 
-*MySQLWorkbench
 
 Lists all products in inventory.
 
